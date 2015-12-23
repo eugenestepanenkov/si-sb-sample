@@ -1,0 +1,4 @@
+rootProject.name = 'si-sb-sample'
+include 'core'
+include 'web'
+include 'data'
